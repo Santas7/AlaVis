@@ -1,8 +1,1 @@
-/connect/ ? FILE
-<<# x int 30
-#>> x
-
-
-
-
-
+#>> Hello, world!
